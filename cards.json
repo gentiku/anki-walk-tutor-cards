@@ -1,0 +1,307 @@
+{
+  "deck": "Default",
+  "generatedAt": "2026-07-24T16:14:27.043Z",
+  "selection": "currently due",
+  "cards": [
+    {
+      "german": "Die Landschaft hier ist sehr malerisch (Die Landschaft).",
+      "english": "landscape, scenery",
+      "example": "Die Landschaft in den Alpen ist wunderbar schön."
+    },
+    {
+      "german": "Die Natur ist hier unberührt (die Natur).",
+      "english": "nature",
+      "example": "Ich liebe es, Zeit in der Natur zu verbringen."
+    },
+    {
+      "german": "Die Verschmutzung der Flüsse ist ein Problem (die Verschmutzung).",
+      "english": "pollution, contamination",
+      "example": "Die Verschmutzung der Luft ist ein großes Problem in der Stadt."
+    },
+    {
+      "german": "Der Sturm hat viele Bäume zerstört (zerstören).",
+      "english": "to destroy",
+      "example": "Der Sturm hat das Dach des Hauses zerstört."
+    },
+    {
+      "german": "Der Absender steht auf dem Umschlag (der Absender, -).",
+      "english": "sender",
+      "example": "Der Absender des Briefes ist unbekannt."
+    },
+    {
+      "german": "Gott sei Dank, es ist vorbei (Gott sei Dank!).",
+      "english": "Thank God! / Thank goodness!",
+      "example": "Gott sei Dank, du bist endlich angekommen!"
+    },
+    {
+      "german": "Ich bin Ingenieur (Ingenieur, -e).",
+      "english": "engineer",
+      "example": "Mein Bruder ist Ingenieur und arbeitet bei einer Autofabrik."
+    },
+    {
+      "german": "Ich bekomme ein Stipendium (Stipendium, Stipendien).",
+      "english": "scholarship, stipend",
+      "example": "Sie hat ein Stipendium bekommen und kann jetzt studieren."
+    },
+    {
+      "german": "Ich schließe mein Studium ab (das Studium abschließen, schloss ab, abgeschlossen).",
+      "english": "to complete/finish one's studies",
+      "example": "Sie hat ihr Studium an der Universität München abgeschlossen."
+    },
+    {
+      "german": "Der Krieg ist schrecklich (Krieg, -e).",
+      "english": "war",
+      "example": "Der Zweite Weltkrieg endete 1945."
+    },
+    {
+      "german": "Das ist einmalig (einmalig).",
+      "english": "unique; one-time; exceptional",
+      "example": "Das ist eine einmalige Gelegenheit, die du nicht verpassen solltest."
+    },
+    {
+      "german": "Den Nagel auf den Kopf treffen (Den Nagel auf den Kopf treffen)",
+      "english": "to hit the nail on the head; to be exactly right",
+      "example": "Mit deiner Analyse hast du den Nagel auf den Kopf getroffen."
+    },
+    {
+      "german": "Hals- und Beinbruch! (Hals- und Beinbruch!)",
+      "english": "Break a leg! (literally: neck and leg fracture)",
+      "example": "Viel Erfolg bei deinem Konzert heute Abend! Hals- und Beinbruch!"
+    },
+    {
+      "german": "Morgenstund hat Gold im Mund (Morgenstund hat Gold im Mund)",
+      "english": "The early bird catches the worm / Early to bed and early to rise, makes a man healthy, wealthy and wise",
+      "example": "Mein Großvater steht jeden Morgen um 5 Uhr auf. Er sagt immer: Morgenstund hat Gold im Mund!"
+    },
+    {
+      "german": "Wer rastet, der rostet (Wer rastet, der rostet)",
+      "english": "A person who rests becomes rusty; you have to keep moving or you'll lose your abilities",
+      "example": "Mein Großvater sagt immer: Wer rastet, der rostet! Deshalb geht er jeden Tag spazieren."
+    },
+    {
+      "german": "Neue Besen kehren gut (Neue Besen kehren gut)",
+      "english": "A new broom sweeps clean",
+      "example": "Der neue Chef hat viele Veränderungen gemacht. Neue Besen kehren gut!"
+    },
+    {
+      "german": "Ich habe die Nase voll (Die Nase voll haben)",
+      "english": "to be fed up, to have had enough",
+      "example": "Ich habe die Nase voll von deinen ständigen Ausreden!"
+    },
+    {
+      "german": "Das geht mir auf den Sack (Das geht mir auf den Sack)",
+      "english": "That gets on my nerves / That really annoys me",
+      "example": "Diese ständigen Verzögerungen gehen mir auf den Sack!"
+    },
+    {
+      "german": "Erst die Arbeit, dann das Vergnügen (Erst die Arbeit, dann das Vergnügen)",
+      "english": "Business before pleasure",
+      "example": "Mein Vater sagt immer: Erst die Arbeit, dann das Vergnügen. Deshalb muss ich meine Hausaufgaben machen, bevor ich spielen darf."
+    },
+    {
+      "german": "Ehrlich währt am längsten (Ehrlich währt am längsten)",
+      "english": "Honesty is the best policy",
+      "example": "Mein Vater sagte immer: Ehrlich währt am längsten, deshalb bin ich immer offen mit meinen Freunden."
+    },
+    {
+      "german": "Schluss mit lustig (Schluss mit lustig)",
+      "english": "the joke is over; enough fooling around; time to get serious",
+      "example": "Jetzt ist Schluss mit lustig! Wir müssen die Hausaufgaben machen."
+    },
+    {
+      "german": "Jemandem die kalte Schulter zeigen (Jemandem die kalte Schulter zeigen)",
+      "english": "to give someone the cold shoulder",
+      "example": "Nach unserem Streit zeigte sie mir die kalte Schulter und sprach tagelang nicht mit mir."
+    },
+    {
+      "german": "Es kommt darauf an, was du willst (es kommt darauf an).",
+      "english": "it depends",
+      "example": "Kommst du morgen zur Party? Es kommt darauf an, ob ich fertig bin mit meiner Arbeit."
+    },
+    {
+      "german": "Ich kenne die Vorteile dieser Methode.",
+      "english": "I know the advantages of this method.",
+      "example": "Ich kenne die Vorteile dieser Methode sehr gut."
+    },
+    {
+      "german": "Ich hatte Glück und konnte das Kind vor dem Sturz geretten.",
+      "english": "I was lucky and was able to save the child from the fall.",
+      "example": "Der Feuerwehrmann rettete die Katze aus dem brennenden Haus."
+    },
+    {
+      "german": "Ich wünsche Ihnen eine gute Mahlzeit!",
+      "english": "I wish you a good meal! / Enjoy your meal!",
+      "example": "Der Kellner sagt: \"Ich wünsche Ihnen eine gute Mahlzeit!\""
+    },
+    {
+      "german": "Ich muss hier aussteigen, weil ich die falsche Haltestelle erwischt habe.",
+      "english": "to get off, to exit (from a vehicle)",
+      "example": "Ich muss hier aussteigen, weil ich die falsche Haltestelle erwischt habe."
+    },
+    {
+      "german": "Der junge Mann benahm sich in der Situation vernünftig und bewahrte einen kühlen Kopf.",
+      "english": "The young man behaved reasonably in the situation and kept a cool head.",
+      "example": "Während des Konflikts bewahrte sie einen kühlen Kopf und löste das Problem ruhig."
+    },
+    {
+      "german": "ich halte",
+      "english": "I hold / I keep / I think",
+      "example": "Ich halte das Buch in meiner Hand."
+    },
+    {
+      "german": "die Badehose",
+      "english": "swimming trunks, swim shorts",
+      "example": "Ich muss eine neue Badehose kaufen, bevor ich ins Schwimmbad gehe."
+    },
+    {
+      "german": "der Kies",
+      "english": "gravel, pebbles",
+      "example": "Der Kies auf dem Parkplatz knirschte unter meinen Füßen."
+    },
+    {
+      "german": "irgendwie",
+      "english": "somehow, in some way, something like that",
+      "example": "Das Essen schmeckt irgendwie seltsam."
+    },
+    {
+      "german": "Sehr geehrte Damen und Herren",
+      "english": "Ladies and gentlemen",
+      "example": "Sehr geehrte Damen und Herren, ich möchte Sie heute begrüßen."
+    },
+    {
+      "german": "die Klamotten",
+      "english": "clothes, clothing",
+      "example": "Meine neuen Klamotten gefallen mir sehr gut."
+    },
+    {
+      "german": "aufgebraucht",
+      "english": "used up, consumed, exhausted",
+      "example": "Ich habe alle meine Ersparnisse aufgebraucht."
+    },
+    {
+      "german": "Verflucht!",
+      "english": "Damn! / Cursed!",
+      "example": "Verflucht! Ich habe meinen Schlüssel verloren."
+    },
+    {
+      "german": "ähnlich",
+      "english": "similar",
+      "example": "Deine Jacke sieht meiner sehr ähnlich."
+    },
+    {
+      "german": "ziehen nach",
+      "english": "to move to",
+      "example": "Meine Familie zieht nächstes Jahr nach Berlin."
+    },
+    {
+      "german": "der Aufschnitt",
+      "english": "cold cuts, sliced cold meats, deli meat",
+      "example": "Zum Frühstück esse ich gerne Aufschnitt mit Brot und Butter."
+    },
+    {
+      "german": "(da) drüben",
+      "english": "there, there is",
+      "example": "Da ist mein Schlüssel! Ich habe ihn überall gesucht."
+    },
+    {
+      "german": "Ich habe eine Rechnung bekommen, aber ich weiß nicht, wofür.",
+      "english": "I received a bill, but I don't know what it's for.",
+      "example": "Ich habe eine Rechnung bekommen, aber ich weiß nicht, wofür."
+    },
+    {
+      "german": "das Niveau",
+      "english": "level, standard",
+      "example": "Das Niveau dieses Kurses ist für Anfänger geeignet."
+    },
+    {
+      "german": "etablieren",
+      "english": "to establish, to set up, to become established",
+      "example": "Das Unternehmen hat sich in den letzten Jahren auf dem Markt etabliert."
+    },
+    {
+      "german": "sich kümmern um",
+      "english": "to take care of, to look after, to attend to",
+      "example": "Meine Mutter kümmert sich um die Kinder, während ich arbeite."
+    },
+    {
+      "german": "das Gewehr",
+      "english": "rifle, gun",
+      "example": "Der Soldat trägt sein Gewehr über die Schulter."
+    },
+    {
+      "german": "sich wehren",
+      "english": "to defend oneself, to resist, to fight back",
+      "example": "Das Kind wehrte sich gegen die Ungerechtigkeit."
+    },
+    {
+      "german": "das Selbstvertrauen; die Selbstsicherheit",
+      "english": "self-confidence; self-assurance",
+      "example": "Mit mehr Selbstvertrauen kannst du deine Ziele leichter erreichen."
+    },
+    {
+      "german": "der Immobilienverwalter",
+      "english": "property manager",
+      "example": "Der Immobilienverwalter kümmert sich um alle Reparaturen im Haus."
+    },
+    {
+      "german": "dementieren",
+      "english": "to deny, to refute",
+      "example": "Der Politiker dementierte die Vorwürfe sofort."
+    },
+    {
+      "german": "unterrichten",
+      "english": "to teach",
+      "example": "Meine Mutter unterrichtet Mathematik an einem Gymnasium."
+    },
+    {
+      "german": "der Bauer",
+      "english": "farmer",
+      "example": "Der Bauer arbeitet jeden Tag auf seinem Feld."
+    },
+    {
+      "german": "die Gastgeberin",
+      "english": "hostess",
+      "example": "Die Gastgeberin hat uns sehr herzlich begrüßt und ein leckeres Essen zubereitet."
+    },
+    {
+      "german": "Edifice Complex.",
+      "english": "Edifice Complex",
+      "example": "Der Politiker litt unter einem Edifice Complex und wollte überall große Gebäude errichten."
+    },
+    {
+      "german": "der Zorn",
+      "english": "anger, wrath",
+      "example": "Sein Zorn war so groß, dass er das Zimmer verließ."
+    },
+    {
+      "german": "PKW: Personenkraftwagen (car)",
+      "english": "car",
+      "example": "Mein Auto ist rot und sehr zuverlässig."
+    },
+    {
+      "german": "Ausrutschgefahr",
+      "english": "risk of slipping, slippery surface hazard",
+      "example": "Bei Regen besteht auf dieser Treppe Ausrutschgefahr."
+    },
+    {
+      "german": "die ehre",
+      "english": "honor, dignity, respect",
+      "example": "Es ist eine große Ehre für mich, Sie kennenzulernen."
+    },
+    {
+      "german": "der Held",
+      "english": "hero",
+      "example": "Batman ist ein bekannter Held aus Comics und Filmen."
+    },
+    {
+      "german": "verschwenden",
+      "english": "to waste",
+      "example": "Du verschwendest zu viel Geld für unnötige Dinge."
+    },
+    {
+      "german": "die See",
+      "english": "the sea, the lake",
+      "example": "Im Sommer fahren wir gerne an die See."
+    }
+  ]
+}

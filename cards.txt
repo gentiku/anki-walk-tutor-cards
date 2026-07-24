@@ -1,43 +1,305 @@
-GERMAN WALK TUTOR TEST DECK
+GERMAN WALK TUTOR CURRENT DECK
 
-Use these cards for a relaxed early-B1 German conversation.
+Cards: 60
+Source: Anki deck Default, currently due cards
+Updated: 2026-07-24T16:14:27.043Z
 
 CARD 1
-German: ziehen nach
-English: to move to
-Example: Nächstes Jahr ziehen wir nach Berlin.
+German: Die Landschaft hier ist sehr malerisch (Die Landschaft).
+English: landscape, scenery
+Example: Die Landschaft in den Alpen ist wunderbar schön.
 
 CARD 2
-German: sich entscheiden für
-English: to decide on; to choose
-Example: Ich habe mich für den Zug entschieden.
+German: Die Natur ist hier unberührt (die Natur).
+English: nature
+Example: Ich liebe es, Zeit in der Natur zu verbringen.
 
 CARD 3
-German: die Voraussetzung
-English: the prerequisite; the requirement
-Example: Gute Deutschkenntnisse sind eine Voraussetzung.
+German: Die Verschmutzung der Flüsse ist ein Problem (die Verschmutzung).
+English: pollution, contamination
+Example: Die Verschmutzung der Luft ist ein großes Problem in der Stadt.
 
 CARD 4
-German: berücksichtigen
-English: to take into account; to consider
-Example: Wir müssen alle Möglichkeiten berücksichtigen.
+German: Der Sturm hat viele Bäume zerstört (zerstören).
+English: to destroy
+Example: Der Sturm hat das Dach des Hauses zerstört.
 
 CARD 5
-German: im Gegensatz zu
-English: in contrast to; unlike
-Example: Im Gegensatz zu gestern ist es heute warm.
+German: Der Absender steht auf dem Umschlag (der Absender, -).
+English: sender
+Example: Der Absender des Briefes ist unbekannt.
 
 CARD 6
-German: es kommt darauf an
-English: it depends
-Example: Es kommt darauf an, wie viel Zeit wir haben.
+German: Gott sei Dank, es ist vorbei (Gott sei Dank!).
+English: Thank God! / Thank goodness!
+Example: Gott sei Dank, du bist endlich angekommen!
 
 CARD 7
-German: sich gewöhnen an
-English: to get used to
-Example: Ich gewöhne mich langsam an das Wetter.
+German: Ich bin Ingenieur (Ingenieur, -e).
+English: engineer
+Example: Mein Bruder ist Ingenieur und arbeitet bei einer Autofabrik.
 
 CARD 8
-German: zur Verfügung stehen
-English: to be available; to be at someone’s disposal
-Example: Die Unterlagen stehen online zur Verfügung.
+German: Ich bekomme ein Stipendium (Stipendium, Stipendien).
+English: scholarship, stipend
+Example: Sie hat ein Stipendium bekommen und kann jetzt studieren.
+
+CARD 9
+German: Ich schließe mein Studium ab (das Studium abschließen, schloss ab, abgeschlossen).
+English: to complete/finish one's studies
+Example: Sie hat ihr Studium an der Universität München abgeschlossen.
+
+CARD 10
+German: Der Krieg ist schrecklich (Krieg, -e).
+English: war
+Example: Der Zweite Weltkrieg endete 1945.
+
+CARD 11
+German: Das ist einmalig (einmalig).
+English: unique; one-time; exceptional
+Example: Das ist eine einmalige Gelegenheit, die du nicht verpassen solltest.
+
+CARD 12
+German: Den Nagel auf den Kopf treffen (Den Nagel auf den Kopf treffen)
+English: to hit the nail on the head; to be exactly right
+Example: Mit deiner Analyse hast du den Nagel auf den Kopf getroffen.
+
+CARD 13
+German: Hals- und Beinbruch! (Hals- und Beinbruch!)
+English: Break a leg! (literally: neck and leg fracture)
+Example: Viel Erfolg bei deinem Konzert heute Abend! Hals- und Beinbruch!
+
+CARD 14
+German: Morgenstund hat Gold im Mund (Morgenstund hat Gold im Mund)
+English: The early bird catches the worm / Early to bed and early to rise, makes a man healthy, wealthy and wise
+Example: Mein Großvater steht jeden Morgen um 5 Uhr auf. Er sagt immer: Morgenstund hat Gold im Mund!
+
+CARD 15
+German: Wer rastet, der rostet (Wer rastet, der rostet)
+English: A person who rests becomes rusty; you have to keep moving or you'll lose your abilities
+Example: Mein Großvater sagt immer: Wer rastet, der rostet! Deshalb geht er jeden Tag spazieren.
+
+CARD 16
+German: Neue Besen kehren gut (Neue Besen kehren gut)
+English: A new broom sweeps clean
+Example: Der neue Chef hat viele Veränderungen gemacht. Neue Besen kehren gut!
+
+CARD 17
+German: Ich habe die Nase voll (Die Nase voll haben)
+English: to be fed up, to have had enough
+Example: Ich habe die Nase voll von deinen ständigen Ausreden!
+
+CARD 18
+German: Das geht mir auf den Sack (Das geht mir auf den Sack)
+English: That gets on my nerves / That really annoys me
+Example: Diese ständigen Verzögerungen gehen mir auf den Sack!
+
+CARD 19
+German: Erst die Arbeit, dann das Vergnügen (Erst die Arbeit, dann das Vergnügen)
+English: Business before pleasure
+Example: Mein Vater sagt immer: Erst die Arbeit, dann das Vergnügen. Deshalb muss ich meine Hausaufgaben machen, bevor ich spielen darf.
+
+CARD 20
+German: Ehrlich währt am längsten (Ehrlich währt am längsten)
+English: Honesty is the best policy
+Example: Mein Vater sagte immer: Ehrlich währt am längsten, deshalb bin ich immer offen mit meinen Freunden.
+
+CARD 21
+German: Schluss mit lustig (Schluss mit lustig)
+English: the joke is over; enough fooling around; time to get serious
+Example: Jetzt ist Schluss mit lustig! Wir müssen die Hausaufgaben machen.
+
+CARD 22
+German: Jemandem die kalte Schulter zeigen (Jemandem die kalte Schulter zeigen)
+English: to give someone the cold shoulder
+Example: Nach unserem Streit zeigte sie mir die kalte Schulter und sprach tagelang nicht mit mir.
+
+CARD 23
+German: Es kommt darauf an, was du willst (es kommt darauf an).
+English: it depends
+Example: Kommst du morgen zur Party? Es kommt darauf an, ob ich fertig bin mit meiner Arbeit.
+
+CARD 24
+German: Ich kenne die Vorteile dieser Methode.
+English: I know the advantages of this method.
+Example: Ich kenne die Vorteile dieser Methode sehr gut.
+
+CARD 25
+German: Ich hatte Glück und konnte das Kind vor dem Sturz geretten.
+English: I was lucky and was able to save the child from the fall.
+Example: Der Feuerwehrmann rettete die Katze aus dem brennenden Haus.
+
+CARD 26
+German: Ich wünsche Ihnen eine gute Mahlzeit!
+English: I wish you a good meal! / Enjoy your meal!
+Example: Der Kellner sagt: "Ich wünsche Ihnen eine gute Mahlzeit!"
+
+CARD 27
+German: Ich muss hier aussteigen, weil ich die falsche Haltestelle erwischt habe.
+English: to get off, to exit (from a vehicle)
+Example: Ich muss hier aussteigen, weil ich die falsche Haltestelle erwischt habe.
+
+CARD 28
+German: Der junge Mann benahm sich in der Situation vernünftig und bewahrte einen kühlen Kopf.
+English: The young man behaved reasonably in the situation and kept a cool head.
+Example: Während des Konflikts bewahrte sie einen kühlen Kopf und löste das Problem ruhig.
+
+CARD 29
+German: ich halte
+English: I hold / I keep / I think
+Example: Ich halte das Buch in meiner Hand.
+
+CARD 30
+German: die Badehose
+English: swimming trunks, swim shorts
+Example: Ich muss eine neue Badehose kaufen, bevor ich ins Schwimmbad gehe.
+
+CARD 31
+German: der Kies
+English: gravel, pebbles
+Example: Der Kies auf dem Parkplatz knirschte unter meinen Füßen.
+
+CARD 32
+German: irgendwie
+English: somehow, in some way, something like that
+Example: Das Essen schmeckt irgendwie seltsam.
+
+CARD 33
+German: Sehr geehrte Damen und Herren
+English: Ladies and gentlemen
+Example: Sehr geehrte Damen und Herren, ich möchte Sie heute begrüßen.
+
+CARD 34
+German: die Klamotten
+English: clothes, clothing
+Example: Meine neuen Klamotten gefallen mir sehr gut.
+
+CARD 35
+German: aufgebraucht
+English: used up, consumed, exhausted
+Example: Ich habe alle meine Ersparnisse aufgebraucht.
+
+CARD 36
+German: Verflucht!
+English: Damn! / Cursed!
+Example: Verflucht! Ich habe meinen Schlüssel verloren.
+
+CARD 37
+German: ähnlich
+English: similar
+Example: Deine Jacke sieht meiner sehr ähnlich.
+
+CARD 38
+German: ziehen nach
+English: to move to
+Example: Meine Familie zieht nächstes Jahr nach Berlin.
+
+CARD 39
+German: der Aufschnitt
+English: cold cuts, sliced cold meats, deli meat
+Example: Zum Frühstück esse ich gerne Aufschnitt mit Brot und Butter.
+
+CARD 40
+German: (da) drüben
+English: there, there is
+Example: Da ist mein Schlüssel! Ich habe ihn überall gesucht.
+
+CARD 41
+German: Ich habe eine Rechnung bekommen, aber ich weiß nicht, wofür.
+English: I received a bill, but I don't know what it's for.
+Example: Ich habe eine Rechnung bekommen, aber ich weiß nicht, wofür.
+
+CARD 42
+German: das Niveau
+English: level, standard
+Example: Das Niveau dieses Kurses ist für Anfänger geeignet.
+
+CARD 43
+German: etablieren
+English: to establish, to set up, to become established
+Example: Das Unternehmen hat sich in den letzten Jahren auf dem Markt etabliert.
+
+CARD 44
+German: sich kümmern um
+English: to take care of, to look after, to attend to
+Example: Meine Mutter kümmert sich um die Kinder, während ich arbeite.
+
+CARD 45
+German: das Gewehr
+English: rifle, gun
+Example: Der Soldat trägt sein Gewehr über die Schulter.
+
+CARD 46
+German: sich wehren
+English: to defend oneself, to resist, to fight back
+Example: Das Kind wehrte sich gegen die Ungerechtigkeit.
+
+CARD 47
+German: das Selbstvertrauen; die Selbstsicherheit
+English: self-confidence; self-assurance
+Example: Mit mehr Selbstvertrauen kannst du deine Ziele leichter erreichen.
+
+CARD 48
+German: der Immobilienverwalter
+English: property manager
+Example: Der Immobilienverwalter kümmert sich um alle Reparaturen im Haus.
+
+CARD 49
+German: dementieren
+English: to deny, to refute
+Example: Der Politiker dementierte die Vorwürfe sofort.
+
+CARD 50
+German: unterrichten
+English: to teach
+Example: Meine Mutter unterrichtet Mathematik an einem Gymnasium.
+
+CARD 51
+German: der Bauer
+English: farmer
+Example: Der Bauer arbeitet jeden Tag auf seinem Feld.
+
+CARD 52
+German: die Gastgeberin
+English: hostess
+Example: Die Gastgeberin hat uns sehr herzlich begrüßt und ein leckeres Essen zubereitet.
+
+CARD 53
+German: Edifice Complex.
+English: Edifice Complex
+Example: Der Politiker litt unter einem Edifice Complex und wollte überall große Gebäude errichten.
+
+CARD 54
+German: der Zorn
+English: anger, wrath
+Example: Sein Zorn war so groß, dass er das Zimmer verließ.
+
+CARD 55
+German: PKW: Personenkraftwagen (car)
+English: car
+Example: Mein Auto ist rot und sehr zuverlässig.
+
+CARD 56
+German: Ausrutschgefahr
+English: risk of slipping, slippery surface hazard
+Example: Bei Regen besteht auf dieser Treppe Ausrutschgefahr.
+
+CARD 57
+German: die ehre
+English: honor, dignity, respect
+Example: Es ist eine große Ehre für mich, Sie kennenzulernen.
+
+CARD 58
+German: der Held
+English: hero
+Example: Batman ist ein bekannter Held aus Comics und Filmen.
+
+CARD 59
+German: verschwenden
+English: to waste
+Example: Du verschwendest zu viel Geld für unnötige Dinge.
+
+CARD 60
+German: die See
+English: the sea, the lake
+Example: Im Sommer fahren wir gerne an die See.
